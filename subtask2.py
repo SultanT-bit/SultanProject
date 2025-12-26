@@ -22,3 +22,5 @@ def solve_task_8_2():
 
 solve_task_8_2()
 
+# it looks like I learned how to use
+git today
