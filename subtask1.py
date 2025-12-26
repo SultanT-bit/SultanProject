@@ -6,3 +6,5 @@ def solve_task_8_1():
     q = i * i
     print("Result q:", q)
 solve_task_8_1()
+# it looks like I learned how to use
+git today
